@@ -3,9 +3,10 @@
 ## Unreleased
 ### Improvements, Bug Fixes
 
+- Added SCSS files
 - Guard Home blueprint with `@login_required` decorator
 - Added page-403 ( Access denied case)
-- Syncronize the code-base with latest [boilerplate code](https://github.com/app-generator/boilerplate-code-flask-dashboard) 
+- Syncronize the code-base with latest [boilerplate code](https://github.com/app-generator/boilerplate-code-flask-dashboard)
 
 ## [1.0.1] 2020-05-30
 ### Improvements
