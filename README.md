@@ -1,17 +1,15 @@
 # [Flask Gradient PRO](https://appseed.us/admin-dashboards/flask-dashboard-gradient-pro)
 
-> Commercial product - **Flask Dashboard** provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator) - Features:
+> Commercial product - **Flask Dashboard** provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator):
 
-- UI Kit: **Gradient Able Dashboard** (PRO Version) provided by **CodedThemes**
-- UI Kit Docs: [Gradient Able - Bootstrap 4 Admin Template](http://html.codedthemes.com/gradient-able/bootstrap/doc/)
-- SQLite, PostgreSQL, SQLAlchemy ORM
-- Alembic (DB schema migrations)
-- Modular design with **Blueprints**
-- Session-Based authentication (via **flask_login**)
-- Forms validation
-- Deployment scripts: Docker, Gunicorn / Nginx
-- **Commercial License**: [Personal](https://github.com/app-generator/license-personal) / [Developer](https://github.com/app-generator/license-developer)
-- 24/7 Live Support via [Discord](https://discord.gg/fZC6hup).
+> Features
+
+- DBMS: SQLite, PostgreSQL (production) 
+- DB Tools: SQLAlchemy ORM, Flask-Migrate (schema migrations)
+- Modular design with **Blueprints**, simple codebase
+- Session-Based authentication (via **flask_login**), Forms validation
+- Deployment scripts: Docker, Gunicorn / Nginx, Heroku
+- Support via **Github** and [Discord](https://discord.gg/fZC6hup).
 
 > Links
 
