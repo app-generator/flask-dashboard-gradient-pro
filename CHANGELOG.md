@@ -1,5 +1,11 @@
 # Change Log
 
+## [1.0.3] 2021-03-23
+### Improvements
+
+- Cump Codebase: [Flask Dashboard](https://github.com/app-generator/boilerplate-code-flask-dashboard) v1.0.5
+- Bump UI: [Jinja Gradient PRO](https://github.com/app-generator/jinja-gradient-pro) v1.0.1
+
 ## [1.0.2] 2021-03-19
 ### Improvements
 
